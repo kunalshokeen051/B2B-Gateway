@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pA+D9RpUHwS604ssA0vIA3fNBWgI9PtCkvIC+8Q/RWQb5O/kjkoMoXcqtQ+8KwBvitJzmrxzn7j2TCN9qYhk3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kunal Shokeen\\Desktop\\Hemant Sir Projects\\Project\\WorkWise\\PM.Portal\\WorkWise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kunal Shokeen\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
